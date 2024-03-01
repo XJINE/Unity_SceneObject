@@ -1,6 +1,6 @@
 # Unity_SceneObject
 
-<img src="https://github.com/XJINE/Unity_SceneObject/blob/master/Screenshot.png" width="100%" height="auto" />
+<img src="https://github.com/XJINE/Unity_SceneObject/blob/main/Screenshot.png" width="100%" height="auto" />
 
 Setup SceneAsset in Inspector & load it runtime.
 
@@ -18,9 +18,9 @@ https://github.com/XJINE/Unity_SceneObject.git?path=Assets/Packages/SceneObject
 public class Sample : MonoBehaviour
 {
     public SceneObject sceneObject;
-	~
-	SceneManager.LoadScene(sceneObject.Path);
-	~
+    ~
+    SceneManager.LoadScene(sceneObject.Path);
+    ~
 }
 ```
 
