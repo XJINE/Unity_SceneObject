@@ -1,0 +1,18 @@
+{
+    "name"       : "com.xjine.sceneobject",
+    "displayName": "SceneObject", 
+    "version"    : "1.0.0",
+    "unity"      : "2022.3",
+    "description": "Setup SceneAsset in Inspector & load it runtime.",
+    "author"     :
+    {
+        "name": "XJINE",
+        "url" : "https://github.com/XJINE"
+    },
+    "keywords":
+    [
+    ],
+    "dependencies":
+    {
+    }
+}
